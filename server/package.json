@@ -21,7 +21,7 @@
     "mkdirp": "*",
     "morgan": "*",
     "mysql": "^2.17.1",
-    "node-uuid": "1.4.3",
+    "node-uuid": "1.4.8",
     "request": "*",
     "serve-favicon": "~2.3.0",
     "sync": "*",
