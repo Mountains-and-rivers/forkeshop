@@ -18,7 +18,7 @@
       "express-session": "*",
       "express-xml-bodyparser": "*",
       "knex": "*",
-      "log4js": "1.1.1",
+      "log4js": "6.4.0",
       "md5": "*",
       "mkdirp": "*",
       "mocha": "^2.3.4",
