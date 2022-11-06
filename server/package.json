@@ -33,7 +33,7 @@
     "exceljs": "*",
     "baidubce-sdk": "*",
     "xmldom": "*",
-    "mocha": "^2.3.4",
+    "mocha": "^10.1.0",
     "should": "^8.0.1",
     "supertest": "^1.1.0",
     "md5": "*"
